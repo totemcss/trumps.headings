@@ -1,0 +1,26 @@
+{
+  "name": "totem-trumps-headings",
+  "description": "A CSS font-size utilities",
+  "main": "_trumps.headings.scss",
+  "authors": [
+    "Florian Bouvot <florian.bouvot@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "inuitcss",
+    "oocss",
+    "css"
+  ],
+  "homepage": "https://github.com/totemcss/trumps.headings",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "inuit-headings": "~0.3.x"
+  }
+}

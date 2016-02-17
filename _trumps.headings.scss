@@ -1,0 +1,27 @@
+/*------------------------------------*\
+    #HEADINGS
+\*------------------------------------*/
+
+.u-alpha {
+    @include font-size($font-size-h1);
+}
+
+.u-beta {
+    @include font-size($font-size-h2);
+}
+
+.u-gamma {
+    @include font-size($font-size-h3);
+}
+
+.u-delta {
+    @include font-size($font-size-h4);
+}
+
+.u-epsilon {
+    @include font-size($font-size-h5);
+}
+
+.u-zeta {
+    @include font-size($font-size-h6);
+}

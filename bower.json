@@ -1,5 +1,6 @@
 {
   "name": "totem-trumps-headings",
+  "version": "0.1.1",
   "description": "A CSS font-size utilities",
   "main": "_trumps.headings.scss",
   "authors": [
